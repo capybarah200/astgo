@@ -1,0 +1,78 @@
+{
+ "meta": {
+  "built_at": "2026-10-18T19:04:30+00:00",
+  "count": 7
+ },
+ "landmarks": [
+  {
+   "key": "mega",
+   "label": "Mega Silk Way",
+   "lat": 51.0890897,
+   "lon": 71.4073303,
+   "name_kk": null,
+   "name_en": "Mega SilkWay Astana",
+   "poi_id": "osm:way/499328514",
+   "source": "osm:way/499328514"
+  },
+  {
+   "key": "expo",
+   "label": "Экспо",
+   "lat": 51.0927879,
+   "lon": 71.4214816,
+   "name_kk": null,
+   "name_en": null,
+   "poi_id": "osm:way/454853233",
+   "source": "osm:way/454853233"
+  },
+  {
+   "key": "baiterek",
+   "label": "Байтерек",
+   "lat": 51.1282882,
+   "lon": 71.4304546,
+   "name_kk": "Бәйтерек",
+   "name_en": "Bayterek",
+   "poi_id": "osm:way/230401645",
+   "source": "osm:way/230401645"
+  },
+  {
+   "key": "khan_shatyr",
+   "label": "Хан Шатыр",
+   "lat": 51.1325089,
+   "lon": 71.4038726,
+   "name_kk": "Хан Шатыр",
+   "name_en": "Khan Shatyr",
+   "poi_id": "osm:way/460703779",
+   "source": "osm:way/460703779"
+  },
+  {
+   "key": "airport",
+   "label": "Аэропорт",
+   "lat": 51.022222222,
+   "lon": 71.466944444,
+   "name_kk": "Нұрсұлтан Назарбаев Халықаралық Әуежайы",
+   "name_en": "Nursultan Nazarbayev International Airport",
+   "poi_id": null,
+   "source": "wikidata:Q174233"
+  },
+  {
+   "key": "station",
+   "label": "Вокзал Нурлы Жол",
+   "lat": 51.112389,
+   "lon": 71.531752,
+   "name_kk": "Астана Нұрлы жол",
+   "name_en": "Astana Nurly Zhol station",
+   "poi_id": null,
+   "source": "wikidata:Q30642068"
+  },
+  {
+   "key": "old_station",
+   "label": "Вокзал Астана-1",
+   "lat": 51.195675,
+   "lon": 71.409083333,
+   "name_kk": "Астана 1",
+   "name_en": "Astana-1 station",
+   "poi_id": null,
+   "source": "wikidata:Q800403"
+  }
+ ]
+}

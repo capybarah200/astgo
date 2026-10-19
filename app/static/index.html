@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>AstGo — куда пойти в Астане</title>
+<meta name="description" content="Напишите, где вы и сколько у вас времени, — и получите 1–3 места рядом: почему туда и что там делать.">
+<meta name="theme-color" content="#f6f5f1" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#131514" media="(prefers-color-scheme: dark)">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Onest:wght@400;500;600&family=Literata:opsz,wght@7..72,400;7..72,500&display=swap">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+<link rel="stylesheet" href="/static/style.css?v=11">
+</head>
+<body>
+<main class="app">
+  <div id="map" role="region" aria-label="Карта Астаны. Нажмите там, где вы находитесь"></div>
+
+  <section class="panel" aria-label="Разговор">
+    <header class="bar">
+      <span class="brand">AstGo</span>
+      <span id="demo-time" class="bar-note" hidden></span>
+    </header>
+
+    <div id="log" class="log" aria-live="polite">
+      <div id="welcome" class="welcome">
+        <h1>Куда пойдём?</h1>
+        <p>Напишите, где вы и сколько у вас времени. Или нажмите на карту — там, где вы стоите.</p>
+        <div class="examples" aria-label="Примеры">
+          <button type="button" class="example">Я у Байтерека, есть час</button>
+          <button type="button" class="example">С ребёнком у Хан Шатыра, часа полтора</button>
+          <button type="button" class="example">Возле Астана Оперы, хочу кофе</button>
+        </div>
+      </div>
+    </div>
+
+    <form id="composer" class="composer">
+      <button type="button" id="locate" class="icon" aria-label="Определить, где я" title="Где я">
+        <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><circle cx="12" cy="12" r="4" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+      </button>
+      <label for="input" class="sr-only">Сообщение</label>
+      <input id="input" maxlength="500" autocomplete="off" enterkeyhint="send" placeholder="Где вы и что хотите?">
+      <button type="submit" class="icon send" aria-label="Отправить">
+        <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M12 19V5M5 12l7-7 7 7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </button>
+    </form>
+
+    <footer class="foot">
+      <details>
+        <summary>Как это работает</summary>
+        <p>Места ищет код по нашей базе — 1872 места Астаны из OpenStreetMap, Wikidata, Википедии и путеводителя Wikivoyage. Он же считает
+          расстояние, время пешком, время на месте и проверяет часы работы на момент, когда вы дойдёте.
+          ИИ (Gemini) понимает ваш запрос и пишет ответ — только по этим фактам; ответ с чужим местом или
+          придуманной цифрой отбрасывается. <span id="llm-status"></span></p>
+        <p>«Открыто» пишем, только если часы есть в данных. Геолокация округляется до ~100 м прямо в браузере;
+          разговор хранится только у вас, сервер ничего не записывает.</p>
+      </details>
+      <span>Данные: © OpenStreetMap, Wikidata, Википедия</span>
+    </footer>
+  </section>
+</main>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<script src="/static/app.js?v=13"></script>
+</body>
+</html>

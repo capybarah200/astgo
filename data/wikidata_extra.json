@@ -1,0 +1,3757 @@
+{
+ "meta": {
+  "source": "Wikidata (CC0); Wikimedia Commons (лицензия у каждого фото своя); en.wikipedia.org (CC BY-SA 4.0)",
+  "collected_at": "2026-10-18T18:59:46+00:00",
+  "count": 247,
+  "with_type": 243,
+  "with_image": 80,
+  "with_en_intro": 18
+ },
+ "items": {
+  "Q1520": {
+   "types": [
+    {
+     "q": "Q108178728",
+     "ru": "столица государства",
+     "en": "national capital"
+    },
+    {
+     "q": "Q15840617",
+     "ru": "Плановая столица",
+     "en": "planned national capital"
+    },
+    {
+     "q": "Q7930989",
+     "ru": "город",
+     "en": "city or town"
+    },
+    {
+     "q": "Q12266391",
+     "ru": "город республиканского значения",
+     "en": "city of republican significance"
+    },
+    {
+     "q": "Q1549591",
+     "ru": "большой город",
+     "en": "big city"
+    }
+   ],
+   "image": {
+    "file": "Trip to Astana (2015-10-24) 01.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Trip_to_Astana_%282015-10-24%29_01.jpg/960px-Trip_to_Astana_%282015-10-24%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Trip_to_Astana_(2015-10-24)_01.jpg",
+    "artist": "Денис Гришкин",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+   },
+   "enwiki_url": "https://en.wikipedia.org/wiki/Astana",
+   "enwiki_intro": null
+  },
+  "Q127745": {
+   "types": [
+    {
+     "q": "Q45400320",
+     "ru": "издатель свободного доступа",
+     "en": "open-access publisher"
+    },
+    {
+     "q": "Q3918",
+     "ru": "университет",
+     "en": "university"
+    }
+   ],
+   "image": {
+    "file": "L.N.Gumilyov Eurasian National University.JPG",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/L.N.Gumilyov_Eurasian_National_University.JPG/960px-L.N.Gumilyov_Eurasian_National_University.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:L.N.Gumilyov_Eurasian_National_University.JPG",
+    "artist": "ChelseaFunNumberOne",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+   },
+   "enwiki_url": "https://en.wikipedia.org/wiki/L._N._Gumilev_Eurasian_National_University",
+   "enwiki_intro": null
+  },
+  "Q174233": {
+   "types": [
+    {
+     "q": "Q644371",
+     "ru": "международный аэропорт",
+     "en": "international airport"
+    },
+    {
+     "q": "Q94993988",
+     "ru": "коммерческий аэродром",
+     "en": "commercial traffic aerodrome"
+    }
+   ],
+   "image": {
+    "file": "Astana International Airport 03.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Astana_International_Airport_03.jpg/960px-Astana_International_Airport_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Astana_International_Airport_03.jpg",
+    "artist": "Юрий Данилевский",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5"
+   },
+   "enwiki_url": "https://en.wikipedia.org/wiki/Nursultan_Nazarbayev_International_Airport",
+   "enwiki_intro": null
+  },
+  "Q413579": {
+   "types": [
+    {
+     "q": "Q481289",
+     "ru": "официальная резиденция",
+     "en": "official residence"
+    }
+   ],
+   "image": {
+    "file": "Astana-2021-10 - 25.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Astana-2021-10_-_25.jpg/960px-Astana-2021-10_-_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Astana-2021-10_-_25.jpg",
+    "artist": "Vyacheslav Bukharov",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+   },
+   "enwiki_url": "https://en.wikipedia.org/wiki/Aqorda_Residence",
+   "enwiki_intro": null
+  },
+  "Q475139": {
+   "types": [
+    {
+     "q": "Q41176",
+     "ru": "здание",
+     "en": "building"
+    }
+   ],
+   "image": {
+    "file": "This building in Astana mimics a certain Moscow style (4054861399).jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/This_building_in_Astana_mimics_a_certain_Moscow_style_%284054861399%29.jpg/960px-This_building_in_Astana_mimics_a_certain_Moscow_style_%284054861399%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:This_building_in_Astana_mimics_a_certain_Moscow_style_(4054861399).jpg",
+    "artist": "Peretz Partensky from San Francisco, USA",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+   },
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q573362": {
+   "types": [
+    {
+     "q": "Q1060829",
+     "ru": "концертный зал",
+     "en": "concert hall"
+    }
+   ],
+   "image": {
+    "file": "Казахстан ЦКЗ 2011 02.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD_%D0%A6%D0%9A%D0%97_2011_02.jpg/960px-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD_%D0%A6%D0%9A%D0%97_2011_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD_%D0%A6%D0%9A%D0%97_2011_02.jpg",
+    "artist": "Мазур Владимир",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+   },
+   "enwiki_url": "https://en.wikipedia.org/wiki/Kazakhstan_Central_Concert_Hall",
+   "enwiki_intro": null
+  },
+  "Q671484": {
+   "types": [
+    {
+     "q": "Q41176",
+     "ru": "здание",
+     "en": "building"
+    }
+   ],
+   "image": {
+    "file": "Khan Shatyr.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Khan_Shatyr.jpg/960px-Khan_Shatyr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Khan_Shatyr.jpg",
+    "artist": "Quarot",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+   },
+   "enwiki_url": "https://en.wikipedia.org/wiki/Khan_Shatyr_Entertainment_Center",
+   "enwiki_intro": null
+  },
+  "Q713955": {
+   "types": [
+    {
+     "q": "Q54114",
+     "ru": "бульвар",
+     "en": "boulevard"
+    },
+    {
+     "q": "Q79007",
+     "ru": "улица",
+     "en": "street"
+    }
+   ],
+   "image": null,
+   "enwiki_url": "https://en.wikipedia.org/wiki/Nurjol_Boulevard",
+   "enwiki_intro": null
+  },
+  "Q746559": {
+   "types": [
+    {
+     "q": "Q1154710",
+     "ru": "футбольный стадион",
+     "en": "association football venue"
+    }
+   ],
+   "image": {
+    "file": "Astana Arena (inside interior).JPG",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Astana_Arena_%28inside_interior%29.JPG/960px-Astana_Arena_%28inside_interior%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Astana_Arena_(inside_interior).JPG",
+    "artist": "ChelseaFunNumberOne",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+   },
+   "enwiki_url": "https://en.wikipedia.org/wiki/Astana_Arena",
+   "enwiki_intro": null
+  },
+  "Q746625": {
+   "types": [
+    {
+     "q": "Q41176",
+     "ru": "здание",
+     "en": "building"
+    }
+   ],
+   "image": {
+    "file": "Astana, capital of Kazakhstan 06.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Astana%2C_capital_of_Kazakhstan_06.jpg/960px-Astana%2C_capital_of_Kazakhstan_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Astana,_capital_of_Kazakhstan_06.jpg",
+    "artist": "Ninaras",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+   },
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q800403": {
+   "types": [
+    {
+     "q": "Q55488",
+     "ru": "железнодорожная станция",
+     "en": "railway station"
+    }
+   ],
+   "image": {
+    "file": "Astana Railway Station.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Astana_Railway_Station.jpg/960px-Astana_Railway_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Astana_Railway_Station.jpg",
+    "artist": "Fuwuyuan",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+   },
+   "enwiki_url": "https://en.wikipedia.org/wiki/Astana-1_station",
+   "enwiki_intro": null
+  },
+  "Q804210": {
+   "types": [
+    {
+     "q": "Q4989906",
+     "ru": "памятник",
+     "en": "monument"
+    },
+    {
+     "q": "Q1440300",
+     "ru": "смотровая башня",
+     "en": "observation tower"
+    }
+   ],
+   "image": {
+    "file": "Night at Esil District, Astana (P1190721).jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Night_at_Esil_District%2C_Astana_%28P1190721%29.jpg/960px-Night_at_Esil_District%2C_Astana_%28P1190721%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Night_at_Esil_District,_Astana_(P1190721).jpg",
+    "artist": "Matti Blume",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+   },
+   "enwiki_url": "https://en.wikipedia.org/wiki/Baiterek_(monument)",
+   "enwiki_intro": null
+  },
+  "Q1072092": {
+   "types": [
+    {
+     "q": "Q641226",
+     "ru": "арена",
+     "en": "arena"
+    },
+    {
+     "q": "Q12019965",
+     "ru": "ледовый стадион",
+     "en": "indoor ice rink"
+    }
+   ],
+   "image": null,
+   "enwiki_url": "https://en.wikipedia.org/wiki/Alau_Ice_Palace",
+   "enwiki_intro": null
+  },
+  "Q1073433": {
+   "types": [
+    {
+     "q": "Q1497364",
+     "ru": "комплекс зданий",
+     "en": "building complex"
+    }
+   ],
+   "image": {
+    "file": "AbuDhabiPlaza.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/AbuDhabiPlaza.jpg/960px-AbuDhabiPlaza.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:AbuDhabiPlaza.jpg",
+    "artist": "Aldar Properties",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+   },
+   "enwiki_url": "https://en.wikipedia.org/wiki/Abu_Dhabi_Plaza",
+   "enwiki_intro": null
+  },
+  "Q1073439": {
+   "types": [
+    {
+     "q": "Q1497364",
+     "ru": "комплекс зданий",
+     "en": "building complex"
+    }
+   ],
+   "image": null,
+   "enwiki_url": "https://en.wikipedia.org/wiki/Emerald_Towers",
+   "enwiki_intro": null
+  },
+  "Q1074528": {
+   "types": [
+    {
+     "q": "Q172754",
+     "ru": "Всемирная выставка",
+     "en": "world's fair"
+    }
+   ],
+   "image": null,
+   "enwiki_url": "https://en.wikipedia.org/wiki/Expo_2017",
+   "enwiki_intro": null
+  },
+  "Q1186465": {
+   "types": [
+    {
+     "q": "Q811979",
+     "ru": "сооружение",
+     "en": "built structure"
+    }
+   ],
+   "image": {
+    "file": "Kazakhstan Sports Palace.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Kazakhstan_Sports_Palace.jpg/960px-Kazakhstan_Sports_Palace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Kazakhstan_Sports_Palace.jpg",
+    "artist": "ChelseaFunNumberOne",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+   },
+   "enwiki_url": "https://en.wikipedia.org/wiki/Kazakhstan_Sports_Palace",
+   "enwiki_intro": null
+  },
+  "Q1247199": {
+   "types": [
+    {
+     "q": "Q375928",
+     "ru": "нижняя палата парламента",
+     "en": "lower house"
+    }
+   ],
+   "image": null,
+   "enwiki_url": "https://en.wikipedia.org/wiki/M%C3%A4j%C4%B1l%C4%B1s",
+   "enwiki_intro": null
+  },
+  "Q1316045": {
+   "types": [
+    {
+     "q": "Q2570643",
+     "ru": "сенат",
+     "en": "senate"
+    }
+   ],
+   "image": null,
+   "enwiki_url": "https://en.wikipedia.org/wiki/Senate_of_Kazakhstan",
+   "enwiki_intro": null
+  },
+  "Q1454511": {
+   "types": [
+    {
+     "q": "Q974968",
+     "ru": "Парк миниатюр",
+     "en": "miniature park"
+    },
+    {
+     "q": "Q756102",
+     "ru": "музей под открытым небом",
+     "en": "open-air museum"
+    }
+   ],
+   "image": {
+    "file": "Этно-мемориальный комплекс «Карта Казахстана Атамекен».JPG",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/%D0%AD%D1%82%D0%BD%D0%BE-%D0%BC%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%C2%AB%D0%9A%D0%B0%D1%80%D1%82%D0%B0_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0_%D0%90%D1%82%D0%B0%D0%BC%D0%B5%D0%BA%D0%B5%D0%BD%C2%BB.JPG/960px-%D0%AD%D1%82%D0%BD%D0%BE-%D0%BC%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%C2%AB%D0%9A%D0%B0%D1%80%D1%82%D0%B0_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0_%D0%90%D1%82%D0%B0%D0%BC%D0%B5%D0%BA%D0%B5%D0%BD%C2%BB.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:%D0%AD%D1%82%D0%BD%D0%BE-%D0%BC%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%C2%AB%D0%9A%D0%B0%D1%80%D1%82%D0%B0_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0_%D0%90%D1%82%D0%B0%D0%BC%D0%B5%D0%BA%D0%B5%D0%BD%C2%BB.JPG",
+    "artist": "Toshishiro",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+   },
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q1516792": {
+   "types": [
+    {
+     "q": "Q11303",
+     "ru": "небоскрёб",
+     "en": "skyscraper"
+    }
+   ],
+   "image": {
+    "file": "Transport Tower, Astana.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Transport_Tower%2C_Astana.jpg/960px-Transport_Tower%2C_Astana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Transport_Tower,_Astana.jpg",
+    "artist": "Bernard Gagnon",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+   },
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q1519806": {
+   "types": [
+    {
+     "q": "Q137794598",
+     "ru": null,
+     "en": "ministry of Kazakhstan"
+    },
+    {
+     "q": "Q1519799",
+     "ru": "министерство здравоохранения",
+     "en": "ministry of health"
+    }
+   ],
+   "image": null,
+   "enwiki_url": "https://en.wikipedia.org/wiki/Ministry_of_Healthcare_(Kazakhstan)",
+   "enwiki_intro": null
+  },
+  "Q1531443": {
+   "types": [
+    {
+     "q": "Q811979",
+     "ru": "сооружение",
+     "en": "built structure"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q1542507": {
+   "types": [
+    {
+     "q": "Q1497364",
+     "ru": "комплекс зданий",
+     "en": "building complex"
+    }
+   ],
+   "image": {
+    "file": "Astana-Ishim-7809.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Astana-Ishim-7809.jpg/960px-Astana-Ishim-7809.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Astana-Ishim-7809.jpg",
+    "artist": "Vmenkov",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+   },
+   "enwiki_url": "https://en.wikipedia.org/wiki/Grand_Alatau",
+   "enwiki_intro": "Grand Alatau is a residential building complex situated in Astana, Kazakhstan. The development consists of four high-rise buildings, the tallest of which reaches a height of 153 m (502 ft) and contains 43 floors. As of 2026, the 43-story tower currently stands as the tallest residential building in Kazakhstan. The complex is located within the historical center of the city on the right bank of the Ishim River, positioned directly across from the Central Park."
+  },
+  "Q1590386": {
+   "types": [
+    {
+     "q": "Q4830453",
+     "ru": "бизнес",
+     "en": "business"
+    },
+    {
+     "q": "Q6881511",
+     "ru": "предприятие",
+     "en": "enterprise"
+    }
+   ],
+   "image": {
+    "file": "Baiken Mine Site - Kazakhstan.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Baiken_Mine_Site_-_Kazakhstan.jpg/960px-Baiken_Mine_Site_-_Kazakhstan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Baiken_Mine_Site_-_Kazakhstan.jpg",
+    "artist": "NAC Kazatomprom JSC",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+   },
+   "enwiki_url": "https://en.wikipedia.org/wiki/Kazatomprom",
+   "enwiki_intro": null
+  },
+  "Q1804795": {
+   "types": [
+    {
+     "q": "Q137794598",
+     "ru": null,
+     "en": "ministry of Kazakhstan"
+    },
+    {
+     "q": "Q1364302",
+     "ru": "министерство сельского хозяйства",
+     "en": "ministry of agriculture"
+    }
+   ],
+   "image": null,
+   "enwiki_url": "https://en.wikipedia.org/wiki/Ministry_of_Agriculture_(Kazakhstan)",
+   "enwiki_intro": null
+  },
+  "Q1813417": {
+   "types": [
+    {
+     "q": "Q32815",
+     "ru": "мечеть",
+     "en": "mosque"
+    }
+   ],
+   "image": null,
+   "enwiki_url": "https://en.wikipedia.org/wiki/Nur-Astana_Mosque",
+   "enwiki_intro": null
+  },
+  "Q1899549": {
+   "types": [
+    {
+     "q": "Q56242225",
+     "ru": "кафедральный православный собор",
+     "en": "Eastern Orthodox cathedral"
+    }
+   ],
+   "image": {
+    "file": "Кафедральный собор в честь Успения Пресвятой Богородицы.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/%D0%9A%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%B2_%D1%87%D0%B5%D1%81%D1%82%D1%8C_%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D0%B8%D1%8F_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B.jpg/960px-%D0%9A%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%B2_%D1%87%D0%B5%D1%81%D1%82%D1%8C_%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D0%B8%D1%8F_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:%D0%9A%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%B2_%D1%87%D0%B5%D1%81%D1%82%D1%8C_%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D0%B8%D1%8F_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B.jpg",
+    "artist": "Kaiyr",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+   },
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q1916973": {
+   "types": [
+    {
+     "q": "Q11315",
+     "ru": "торговый центр",
+     "en": "shopping center"
+    }
+   ],
+   "image": {
+    "file": "Mega Center Astana.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Mega_Center_Astana.jpg/960px-Mega_Center_Astana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Mega_Center_Astana.jpg",
+    "artist": "msykos",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+   },
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q2119741": {
+   "types": [
+    {
+     "q": "Q17537576",
+     "ru": "творческая работа",
+     "en": "creative work"
+    },
+    {
+     "q": "Q1128637",
+     "ru": "национальный символ",
+     "en": "national symbol"
+    },
+    {
+     "q": "Q2319498",
+     "ru": "памятник архитектуры",
+     "en": "architectural landmark"
+    }
+   ],
+   "image": {
+    "file": "Astana DSC04116 (7709631558).jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Astana_DSC04116_%287709631558%29.jpg/960px-Astana_DSC04116_%287709631558%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Astana_DSC04116_(7709631558).jpg",
+    "artist": "jtstewart",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+   },
+   "enwiki_url": "https://en.wikipedia.org/wiki/Palace_of_Peace_and_Reconciliation",
+   "enwiki_intro": null
+  },
+  "Q2224859": {
+   "types": [
+    {
+     "q": "Q2643128",
+     "ru": "район Казахстана",
+     "en": "district of Kazakhstan"
+    }
+   ],
+   "image": {
+    "file": "Talapker, Tselinograd District businesses.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Talapker%2C_Tselinograd_District_businesses.jpg/960px-Talapker%2C_Tselinograd_District_businesses.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Talapker,_Tselinograd_District_businesses.jpg",
+    "artist": "Nurken",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+   },
+   "enwiki_url": "https://en.wikipedia.org/wiki/Tselinograd_District",
+   "enwiki_intro": null
+  },
+  "Q2783344": {
+   "types": [
+    {
+     "q": "Q17334923",
+     "ru": "местонахождение",
+     "en": "physical location"
+    },
+    {
+     "q": "Q3918",
+     "ru": "университет",
+     "en": "university"
+    }
+   ],
+   "image": null,
+   "enwiki_url": "https://en.wikipedia.org/wiki/Nazarbayev_University",
+   "enwiki_intro": null
+  },
+  "Q2986461": {
+   "types": [
+    {
+     "q": "Q483110",
+     "ru": "стадион",
+     "en": "stadium"
+    }
+   ],
+   "image": {
+    "file": "Стадион имени Мунайтпасова.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/%D0%A1%D1%82%D0%B0%D0%B4%D0%B8%D0%BE%D0%BD_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%9C%D1%83%D0%BD%D0%B0%D0%B9%D1%82%D0%BF%D0%B0%D1%81%D0%BE%D0%B2%D0%B0.jpg/960px-%D0%A1%D1%82%D0%B0%D0%B4%D0%B8%D0%BE%D0%BD_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%9C%D1%83%D0%BD%D0%B0%D0%B9%D1%82%D0%BF%D0%B0%D1%81%D0%BE%D0%B2%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:%D0%A1%D1%82%D0%B0%D0%B4%D0%B8%D0%BE%D0%BD_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%9C%D1%83%D0%BD%D0%B0%D0%B9%D1%82%D0%BF%D0%B0%D1%81%D0%BE%D0%B2%D0%B0.jpg",
+    "artist": "Liquorkaru",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+   },
+   "enwiki_url": "https://en.wikipedia.org/wiki/Kazhymukan_Munaitpasov_Stadium_(Astana)",
+   "enwiki_intro": null
+  },
+  "Q2995409": {
+   "types": [
+    {
+     "q": "Q189445",
+     "ru": "двухпалатный парламент",
+     "en": "bicameral legislature"
+    }
+   ],
+   "image": null,
+   "enwiki_url": "https://en.wikipedia.org/wiki/Parliament_of_Kazakhstan",
+   "enwiki_intro": null
+  },
+  "Q4109099": {
+   "types": [
+    {
+     "q": "Q190752",
+     "ru": "верховный суд",
+     "en": "supreme court"
+    }
+   ],
+   "image": {
+    "file": "Верховный суд Казахстана 2017.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/%D0%92%D0%B5%D1%80%D1%85%D0%BE%D0%B2%D0%BD%D1%8B%D0%B9_%D1%81%D1%83%D0%B4_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0_2017.jpg/960px-%D0%92%D0%B5%D1%80%D1%85%D0%BE%D0%B2%D0%BD%D1%8B%D0%B9_%D1%81%D1%83%D0%B4_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%B5%D1%80%D1%85%D0%BE%D0%B2%D0%BD%D1%8B%D0%B9_%D1%81%D1%83%D0%B4_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0_2017.jpg",
+    "artist": "Мазур Владимир",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+   },
+   "enwiki_url": "https://en.wikipedia.org/wiki/Supreme_Court_of_Kazakhstan",
+   "enwiki_intro": null
+  },
+  "Q4146879": {
+   "types": [
+    {
+     "q": "Q33506",
+     "ru": "музей",
+     "en": "museum"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q4155890": {
+   "types": [
+    {
+     "q": "Q751876",
+     "ru": "шато",
+     "en": "château"
+    }
+   ],
+   "image": null,
+   "enwiki_url": "https://en.wikipedia.org/wiki/Palace_of_Independence_(Astana)",
+   "enwiki_intro": null
+  },
+  "Q4208086": {
+   "types": [
+    {
+     "q": "Q2385804",
+     "ru": "образовательное учреждение",
+     "en": "educational institution"
+    },
+    {
+     "q": "Q3918",
+     "ru": "университет",
+     "en": "university"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q4208095": {
+   "types": [
+    {
+     "q": "Q3918",
+     "ru": "университет",
+     "en": "university"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q4208126": {
+   "types": [
+    {
+     "q": "Q4296769",
+     "ru": "митрополичий округ",
+     "en": "metropolitan district"
+    }
+   ],
+   "image": {
+    "file": "ALAEaster2009.JPG",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/ALAEaster2009.JPG/960px-ALAEaster2009.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:ALAEaster2009.JPG",
+    "artist": "Ds02006",
+    "license": "Public domain",
+    "license_url": null
+   },
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q4230441": {
+   "types": [
+    {
+     "q": "Q1060829",
+     "ru": "концертный зал",
+     "en": "concert hall"
+    },
+    {
+     "q": "Q1763828",
+     "ru": "многоцелевой зал",
+     "en": "multi-purpose hall"
+    },
+    {
+     "q": "Q1378975",
+     "ru": "конференц-центр",
+     "en": "convention center"
+    }
+   ],
+   "image": {
+    "file": "Astana Concert Hall.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Astana_Concert_Hall.jpg/960px-Astana_Concert_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Astana_Concert_Hall.jpg",
+    "artist": "Yakov Fedorov",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+   },
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q4258351": {
+   "types": [
+    {
+     "q": "Q20719675",
+     "ru": "район СССР",
+     "en": "raion of the Soviet Union"
+    },
+    {
+     "q": "Q4476438",
+     "ru": "упразднённые районы Казахстана",
+     "en": "former district of Kazakhstan"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q4277478": {
+   "types": [
+    {
+     "q": "Q728937",
+     "ru": "железнодорожная линия/линия метрополитена",
+     "en": "railway line"
+    },
+    {
+     "q": "Q138825",
+     "ru": "детская железная дорога",
+     "en": "children's railway"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q4287774": {
+   "types": [
+    {
+     "q": "Q3918",
+     "ru": "университет",
+     "en": "university"
+    }
+   ],
+   "image": null,
+   "enwiki_url": "https://en.wikipedia.org/wiki/Astana_Medical_University",
+   "enwiki_intro": null
+  },
+  "Q4312088": {
+   "types": [
+    {
+     "q": "Q163740",
+     "ru": "некоммерческая организация",
+     "en": "nonprofit organization"
+    }
+   ],
+   "image": null,
+   "enwiki_url": "https://en.wikipedia.org/wiki/Nazarbayev_Center",
+   "enwiki_intro": "The Nazarbayev Center (Kazakh: Назарбаев орталығы, romanized: Nazarbaev ortalyğy, Russian: Назарбаев центр) is a multifunctional scientific, analytical, humanitarian, and educational public institution in Kazakhstan.\nThe center contains a museum of Kazakh history, a gallery of Kazakh artists, a national archive, an educational facility, and a library service. Founded in 2012, the center is located in Astana, Kazakhstan."
+  },
+  "Q4314789": {
+   "types": [
+    {
+     "q": "Q7075",
+     "ru": "библиотека",
+     "en": "library"
+    },
+    {
+     "q": "Q22806",
+     "ru": "национальная библиотека",
+     "en": "national library"
+    }
+   ],
+   "image": {
+    "file": "Library of the Republic of Kazakhstan.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Library_of_the_Republic_of_Kazakhstan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Library_of_the_Republic_of_Kazakhstan.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+   },
+   "enwiki_url": "https://en.wikipedia.org/wiki/National_Academic_Library_of_the_Republic_of_Kazakhstan",
+   "enwiki_intro": null
+  },
+  "Q4408858": {
+   "types": [
+    {
+     "q": "Q1076486",
+     "ru": "спортивное сооружение",
+     "en": "sports venue"
+    }
+   ],
+   "image": {
+    "file": "Saryarka Velodrome (inside).JPG",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Saryarka_Velodrome_%28inside%29.JPG/960px-Saryarka_Velodrome_%28inside%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Saryarka_Velodrome_(inside).JPG",
+    "artist": "ChelseaFunNumberOne",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+   },
+   "enwiki_url": "https://en.wikipedia.org/wiki/Saryarka_Velodrome",
+   "enwiki_intro": null
+  },
+  "Q4494668": {
+   "types": [
+    {
+     "q": "Q32815",
+     "ru": "мечеть",
+     "en": "mosque"
+    }
+   ],
+   "image": {
+    "file": "Rustam Minnikhanov on Expo 2017 72.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Rustam_Minnikhanov_on_Expo_2017_72.jpg/960px-Rustam_Minnikhanov_on_Expo_2017_72.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Rustam_Minnikhanov_on_Expo_2017_72.jpg",
+    "artist": "Лаззат Хайдаров",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+   },
+   "enwiki_url": "https://en.wikipedia.org/wiki/Hazrat_Sultan_Mosque",
+   "enwiki_intro": null
+  },
+  "Q7273463": {
+   "types": [
+    {
+     "q": "Q130212458",
+     "ru": "село в Казахстане",
+     "en": "village of Kazakhstan"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q9348995": {
+   "types": [],
+   "image": {
+    "file": "Beit Rachel Synagogue, Astana.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Beit_Rachel_Synagogue%2C_Astana.jpg/960px-Beit_Rachel_Synagogue%2C_Astana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Beit_Rachel_Synagogue,_Astana.jpg",
+    "artist": "אמר מר",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+   },
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q10874268": {
+   "types": [
+    {
+     "q": "Q4164871",
+     "ru": "должность",
+     "en": "position"
+    }
+   ],
+   "image": null,
+   "enwiki_url": "https://en.wikipedia.org/wiki/List_of_ambassadors_of_China_to_Kazakhstan",
+   "enwiki_intro": "The ambassador of China to Kazakhstan is the official representative of the People's Republic of China to the Republic of Kazakhstan."
+  },
+  "Q11187131": {
+   "types": [
+    {
+     "q": "Q114609228",
+     "ru": "версия повторяющегося спортивного события",
+     "en": "recurring sporting event edition"
+    }
+   ],
+   "image": null,
+   "enwiki_url": "https://en.wikipedia.org/wiki/2015_World_Judo_Championships",
+   "enwiki_intro": null
+  },
+  "Q12104411": {
+   "types": [
+    {
+     "q": "Q130212458",
+     "ru": "село в Казахстане",
+     "en": "village of Kazakhstan"
+    },
+    {
+     "q": "Q486972",
+     "ru": "населённый пункт",
+     "en": "human settlement"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q12528524": {
+   "types": [
+    {
+     "q": "Q129675946",
+     "ru": "район города республиканского значения Казахстана",
+     "en": "district of a city of republican significance in Kazakhstan"
+    }
+   ],
+   "image": null,
+   "enwiki_url": "https://en.wikipedia.org/wiki/Almaty_District",
+   "enwiki_intro": null
+  },
+  "Q12530274": {
+   "types": [
+    {
+     "q": "Q24354",
+     "ru": "здание театра",
+     "en": "theatre building"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q12535825": {
+   "types": [
+    {
+     "q": "Q22674925",
+     "ru": "бывший населённый пункт",
+     "en": "former settlement"
+    }
+   ],
+   "image": {
+    "file": "Bozok - Kystau.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Bozok_-_Kystau.jpg/960px-Bozok_-_Kystau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Bozok_-_Kystau.jpg",
+    "artist": "Yakov Fedorov",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+   },
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q12552645": {
+   "types": [
+    {
+     "q": "Q130212458",
+     "ru": "село в Казахстане",
+     "en": "village of Kazakhstan"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q12572580": {
+   "types": [
+    {
+     "q": "Q79007",
+     "ru": "улица",
+     "en": "street"
+    }
+   ],
+   "image": {
+    "file": "Kabanbay Batyr Avenue in Astana (July 2026) - 1.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Kabanbay_Batyr_Avenue_in_Astana_%28July_2026%29_-_1.jpg/960px-Kabanbay_Batyr_Avenue_in_Astana_%28July_2026%29_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Kabanbay_Batyr_Avenue_in_Astana_(July_2026)_-_1.jpg",
+    "artist": "Vyacheslav Bukharov",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+   },
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q12572863": {
+   "types": [
+    {
+     "q": "Q4989906",
+     "ru": "памятник",
+     "en": "monument"
+    }
+   ],
+   "image": {
+    "file": "Kazakh Eli.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Kazakh_Eli.jpg/960px-Kazakh_Eli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Kazakh_Eli.jpg",
+    "artist": "Ken and Nyetta",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+   },
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q12573345": {
+   "types": [
+    {
+     "q": "Q13226383",
+     "ru": "площадка",
+     "en": "facility"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q12573359": {
+   "types": [
+    {
+     "q": "Q2122214",
+     "ru": "национальный архив",
+     "en": "national archives"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q12573372": {
+   "types": [
+    {
+     "q": "Q699386",
+     "ru": "уставная корпорация",
+     "en": "statutory corporation"
+    }
+   ],
+   "image": null,
+   "enwiki_url": "https://en.wikipedia.org/wiki/Qazaqstan_Radio_and_Television_Corporation",
+   "enwiki_intro": "Qazaqstan Radio and Television Corporation (Kazakh: «Qazaqstan» Республикалық Телерадиокорпорациясы Акционерлік Қоғамы, romanized: «Qazaqstan» Respublikalyq Teleradiokorporatsiasy Aktsionerlık Qoğamy, «Қазақстан» РТРК» АҚ, «Qazaqstan» RTRK AQ) is one of the largest media companies in Kazakhstan. It runs four TV channels: Qazaqstan, Qazsport, Balapan, Abai TV; and four radio stations: Qazaq Radiosy, Shalkar, Astana, and Classic. There are also 14 regional TV channels that are part of the corporation."
+  },
+  "Q13228722": {
+   "types": [
+    {
+     "q": "Q130212458",
+     "ru": "село в Казахстане",
+     "en": "village of Kazakhstan"
+    }
+   ],
+   "image": {
+    "file": "Qoyandy Al-Farabi.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Qoyandy_Al-Farabi.jpg/960px-Qoyandy_Al-Farabi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Qoyandy_Al-Farabi.jpg",
+    "artist": "RaiymbekZh",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+   },
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q13642209": {
+   "types": [
+    {
+     "q": "Q130212458",
+     "ru": "село в Казахстане",
+     "en": "village of Kazakhstan"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q13642213": {
+   "types": [
+    {
+     "q": "Q130212458",
+     "ru": "село в Казахстане",
+     "en": "village of Kazakhstan"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q13642228": {
+   "types": [
+    {
+     "q": "Q130212458",
+     "ru": "село в Казахстане",
+     "en": "village of Kazakhstan"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q13642269": {
+   "types": [
+    {
+     "q": "Q130212458",
+     "ru": "село в Казахстане",
+     "en": "village of Kazakhstan"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q13642273": {
+   "types": [
+    {
+     "q": "Q130212458",
+     "ru": "село в Казахстане",
+     "en": "village of Kazakhstan"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q13642286": {
+   "types": [
+    {
+     "q": "Q55488",
+     "ru": "железнодорожная станция",
+     "en": "railway station"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q13668712": {
+   "types": [
+    {
+     "q": "Q39614",
+     "ru": "кладбище",
+     "en": "cemetery"
+    }
+   ],
+   "image": {
+    "file": "Karaotkel Cemetery-3.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Karaotkel_Cemetery-3.jpg/960px-Karaotkel_Cemetery-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Karaotkel_Cemetery-3.jpg",
+    "artist": "Yakov Fedorov",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+   },
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q15222529": {
+   "types": [
+    {
+     "q": "Q423208",
+     "ru": "частная школа",
+     "en": "private school"
+    }
+   ],
+   "image": {
+    "file": "Haileybury Astana campus.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Haileybury_Astana_campus.jpg/960px-Haileybury_Astana_campus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Haileybury_Astana_campus.jpg",
+    "artist": "Anevenchannaya",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+   },
+   "enwiki_url": "https://en.wikipedia.org/wiki/Haileybury_Astana",
+   "enwiki_intro": "Haileybury Astana is a British independent school in Astana, Kazakhstan. It was founded in 2011 as an offshoot of Haileybury, an independent school in England, following the establishment of Haileybury Almaty in 2008. Haileybury Astana follows the UK school curriculum, and senior school pupils are prepared for the International Baccalaureate Diploma Programme (IBDP).  As of today, Haileybury is a full member of FOBISIA.\nIn 2018, Haileybury Astana opened the IB student centre for Year 12-13 International Baccalaureate Diploma Programme (IBDP) students. Each year the school allocates 10 full scholarships for Year 12 students entering the IBDP."
+  },
+  "Q16433519": {
+   "types": [
+    {
+     "q": "Q24354",
+     "ru": "здание театра",
+     "en": "theatre building"
+    }
+   ],
+   "image": {
+    "file": "Astana - 190217 DSC 3875.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Astana_-_190217_DSC_3875.jpg/960px-Astana_-_190217_DSC_3875.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Astana_-_190217_DSC_3875.jpg",
+    "artist": "Ilya Varlamov",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+   },
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q16538413": {
+   "types": [
+    {
+     "q": "Q2977",
+     "ru": "кафедральный собор",
+     "en": "cathedral"
+    }
+   ],
+   "image": {
+    "file": "Astana Katedra 1.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Astana_Katedra_1.jpg/960px-Astana_Katedra_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Astana_Katedra_1.jpg",
+    "artist": "Polk",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+   },
+   "enwiki_url": "https://en.wikipedia.org/wiki/Our_Mother_of_Perpetual_Help_Cathedral,_Astana",
+   "enwiki_intro": null
+  },
+  "Q16632800": {
+   "types": [
+    {
+     "q": "Q483110",
+     "ru": "стадион",
+     "en": "stadium"
+    }
+   ],
+   "image": {
+    "file": "Barys Arena 2014-03-15.JPG",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Barys_Arena_2014-03-15.JPG/960px-Barys_Arena_2014-03-15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Barys_Arena_2014-03-15.JPG",
+    "artist": "ChelseaFunNumberOne",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+   },
+   "enwiki_url": "https://en.wikipedia.org/wiki/Barys_Arena",
+   "enwiki_intro": null
+  },
+  "Q16638930": {
+   "types": [
+    {
+     "q": "Q130212458",
+     "ru": "село в Казахстане",
+     "en": "village of Kazakhstan"
+    },
+    {
+     "q": "Q21507948",
+     "ru": "бывшая деревня",
+     "en": "former village"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q16648877": {
+   "types": [
+    {
+     "q": "Q129675946",
+     "ru": "район города республиканского значения Казахстана",
+     "en": "district of a city of republican significance in Kazakhstan"
+    }
+   ],
+   "image": null,
+   "enwiki_url": "https://en.wikipedia.org/wiki/Esil_District,_Astana",
+   "enwiki_intro": null
+  },
+  "Q16694762": {
+   "types": [
+    {
+     "q": "Q129675946",
+     "ru": "район города республиканского значения Казахстана",
+     "en": "district of a city of republican significance in Kazakhstan"
+    }
+   ],
+   "image": null,
+   "enwiki_url": "https://en.wikipedia.org/wiki/Saryarqa_District",
+   "enwiki_intro": null
+  },
+  "Q18346184": {
+   "types": [
+    {
+     "q": "Q3914",
+     "ru": "школа",
+     "en": "school"
+    }
+   ],
+   "image": {
+    "file": "QSI Astana Front Entrance.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/QSI_Astana_Front_Entrance.jpg/960px-QSI_Astana_Front_Entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:QSI_Astana_Front_Entrance.jpg",
+    "artist": "Teacher83",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+   },
+   "enwiki_url": "https://en.wikipedia.org/wiki/QSI_International_School_of_Astana",
+   "enwiki_intro": "QSI International School of Astana is a branch of Quality Schools International located in Astana, Kazakhstan. QSI Astana was founded in 2005 as a non-profit, private institution. QSI International School of Astana has an English language of instruction; it offers a curriculum taught entirely in English from elementary school to secondary school. In 2013 a new facility completed construction. The facility contains 32 classrooms, 3 computer labs, an auditorium, gymnasium, cafeteria, library, outdoor soccer field ( with an Olympic running track) and basketball court, and several playgrounds. Classes range from Preschool to High School level."
+  },
+  "Q18405670": {
+   "types": [
+    {
+     "q": "Q33506",
+     "ru": "музей",
+     "en": "museum"
+    }
+   ],
+   "image": null,
+   "enwiki_url": "https://en.wikipedia.org/wiki/National_Museum_of_the_Republic_of_Kazakhstan",
+   "enwiki_intro": null
+  },
+  "Q18411138": {
+   "types": [
+    {
+     "q": "Q13406463",
+     "ru": "статья-список в проекте Викимедиа",
+     "en": "Wikimedia list article"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q18508934": {
+   "types": [
+    {
+     "q": "Q484652",
+     "ru": "международная организация",
+     "en": "international organization"
+    }
+   ],
+   "image": null,
+   "enwiki_url": "https://en.wikipedia.org/wiki/Turkic_Academy",
+   "enwiki_intro": null
+  },
+  "Q19405533": {
+   "types": [
+    {
+     "q": "Q1519799",
+     "ru": "министерство здравоохранения",
+     "en": "ministry of health"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q20036756": {
+   "types": [
+    {
+     "q": "Q1076486",
+     "ru": "спортивное сооружение",
+     "en": "sports venue"
+    }
+   ],
+   "image": null,
+   "enwiki_url": "https://en.wikipedia.org/wiki/Daulet_National_Tennis_Centre",
+   "enwiki_intro": "The Daulet National Tennis Centre (Kazakh: \"Дәулет\" Ұлттық Теннис Орталығы, romanized: \"Däulet\" Ūlttyq Tennis Ortalyğy; Russian: Национальный Теннисный Центр \"Даулет\", romanized: Natsional'nyy Tennisnyy Tsentr \"Daulet\") is a sports venue that is part of the National Tennis Centre at Central Park in Astana, Kazakhstan."
+  },
+  "Q21371563": {
+   "types": [
+    {
+     "q": "Q153562",
+     "ru": "оперный театр",
+     "en": "opera house"
+    }
+   ],
+   "image": {
+    "file": "Inside Astana's New Opera House (8282915665).jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Inside_Astana%27s_New_Opera_House_%288282915665%29.jpg/960px-Inside_Astana%27s_New_Opera_House_%288282915665%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Inside_Astana%27s_New_Opera_House_(8282915665).jpg",
+    "artist": "Ken and Nyetta",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+   },
+   "enwiki_url": "https://en.wikipedia.org/wiki/Astana_Opera",
+   "enwiki_intro": null
+  },
+  "Q21843144": {
+   "types": [
+    {
+     "q": "Q16889960",
+     "ru": "здание цирка",
+     "en": "circus building"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q25042277": {
+   "types": [
+    {
+     "q": "Q3914",
+     "ru": "школа",
+     "en": "school"
+    }
+   ],
+   "image": null,
+   "enwiki_url": "https://en.wikipedia.org/wiki/Miras_International_School_Astana",
+   "enwiki_intro": "Miras International School Astana is a K–12 international school in Astana, Kazakhstan.\nThe school opened its doors in 1999 and became the first international school in Kazakhstan authorized for all stages of the International Baccalaureate Programme (International Baccalaureate).\nIt includes a French section serving levels maternelle (preschool) through lycée (senior high school). It began classes in September 2011."
+  },
+  "Q25481641": {
+   "types": [
+    {
+     "q": "Q4989906",
+     "ru": "памятник",
+     "en": "monument"
+    }
+   ],
+   "image": {
+    "file": "Dmitry Medvedev in Kazakhstan 22 May 2008-3.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/be/Dmitry_Medvedev_in_Kazakhstan_22_May_2008-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Dmitry_Medvedev_in_Kazakhstan_22_May_2008-3.jpg",
+    "artist": "Presidential Press and Information Office",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+   },
+   "enwiki_url": "https://en.wikipedia.org/wiki/Otan_Qorgaushylar_Monument",
+   "enwiki_intro": null
+  },
+  "Q25495527": {
+   "types": [
+    {
+     "q": "Q41176",
+     "ru": "здание",
+     "en": "building"
+    }
+   ],
+   "image": null,
+   "enwiki_url": "https://en.wikipedia.org/wiki/Talan_Towers",
+   "enwiki_intro": null
+  },
+  "Q25500354": {
+   "types": [
+    {
+     "q": "Q33506",
+     "ru": "музей",
+     "en": "museum"
+    }
+   ],
+   "image": null,
+   "enwiki_url": "https://en.wikipedia.org/wiki/The_Museum_of_the_First_President_of_the_Republic_of_Kazakhstan",
+   "enwiki_intro": null
+  },
+  "Q25502203": {
+   "types": [
+    {
+     "q": "Q32815",
+     "ru": "мечеть",
+     "en": "mosque"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q27352736": {
+   "types": [
+    {
+     "q": "Q82794",
+     "ru": "географический регион",
+     "en": "region"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q28402868": {
+   "types": [
+    {
+     "q": "Q12280",
+     "ru": "мост",
+     "en": "bridge"
+    }
+   ],
+   "image": {
+    "file": "Astana, by the River (4054863149).jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Astana%2C_by_the_River_%284054863149%29.jpg/960px-Astana%2C_by_the_River_%284054863149%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Astana,_by_the_River_(4054863149).jpg",
+    "artist": "Peretz Partensky from San Francisco, USA",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+   },
+   "enwiki_url": "https://en.wikipedia.org/wiki/Qara%C3%B6tkel_Bridge",
+   "enwiki_intro": "The Qaraötkel Bridge (Kazakh: Қараөткел көпірі, romanized: Qaraötkel köpırı, lit. 'Crossroads Bridge'), also known as Ramstor Bridge (Kazakh: Рамстор көпірі так кажетс], romanized: Ramstor köpırı) is an arch bridge spanning the Ishim River in Astana, Kazakhstan. It was built between 2007 and 2008 as a road bridge crossing the Ishim River."
+  },
+  "Q30263871": {
+   "types": [
+    {
+     "q": "Q13226383",
+     "ru": "площадка",
+     "en": "facility"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q30642068": {
+   "types": [
+    {
+     "q": "Q55488",
+     "ru": "железнодорожная станция",
+     "en": "railway station"
+    }
+   ],
+   "image": {
+    "file": "Астана, вокзал Нурлы Жол, сферопанорама (cropped).jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B0%2C_%D0%B2%D0%BE%D0%BA%D0%B7%D0%B0%D0%BB_%D0%9D%D1%83%D1%80%D0%BB%D1%8B_%D0%96%D0%BE%D0%BB%2C_%D1%81%D1%84%D0%B5%D1%80%D0%BE%D0%BF%D0%B0%D0%BD%D0%BE%D1%80%D0%B0%D0%BC%D0%B0_%28cropped%29.jpg/960px-%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B0%2C_%D0%B2%D0%BE%D0%BA%D0%B7%D0%B0%D0%BB_%D0%9D%D1%83%D1%80%D0%BB%D1%8B_%D0%96%D0%BE%D0%BB%2C_%D1%81%D1%84%D0%B5%D1%80%D0%BE%D0%BF%D0%B0%D0%BD%D0%BE%D1%80%D0%B0%D0%BC%D0%B0_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B0,_%D0%B2%D0%BE%D0%BA%D0%B7%D0%B0%D0%BB_%D0%9D%D1%83%D1%80%D0%BB%D1%8B_%D0%96%D0%BE%D0%BB,_%D1%81%D1%84%D0%B5%D1%80%D0%BE%D0%BF%D0%B0%D0%BD%D0%BE%D1%80%D0%B0%D0%BC%D0%B0_(cropped).jpg",
+    "artist": "Nikolai Bulykin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+   },
+   "enwiki_url": "https://en.wikipedia.org/wiki/Astana-Nurly_Zhol_station",
+   "enwiki_intro": null
+  },
+  "Q30892721": {
+   "types": [
+    {
+     "q": "Q4830453",
+     "ru": "бизнес",
+     "en": "business"
+    },
+    {
+     "q": "Q6881511",
+     "ru": "предприятие",
+     "en": "enterprise"
+    }
+   ],
+   "image": null,
+   "enwiki_url": "https://en.wikipedia.org/wiki/JSC_Lokomotiv",
+   "enwiki_intro": null
+  },
+  "Q30893047": {
+   "types": [
+    {
+     "q": "Q3918",
+     "ru": "университет",
+     "en": "university"
+    }
+   ],
+   "image": null,
+   "enwiki_url": "https://en.wikipedia.org/wiki/National_Defense_University_(Kazakhstan)",
+   "enwiki_intro": null
+  },
+  "Q32172234": {
+   "types": [],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q32193241": {
+   "types": [
+    {
+     "q": "Q23397",
+     "ru": "озеро",
+     "en": "lake"
+    }
+   ],
+   "image": {
+    "file": "ISS024-E-15446 - View of Kazakhstan.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/ISS024-E-15446_-_View_of_Kazakhstan.jpg/960px-ISS024-E-15446_-_View_of_Kazakhstan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:ISS024-E-15446_-_View_of_Kazakhstan.jpg",
+    "artist": "Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center",
+    "license": "Public domain",
+    "license_url": null
+   },
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q32205515": {
+   "types": [
+    {
+     "q": "Q23397",
+     "ru": "озеро",
+     "en": "lake"
+    }
+   ],
+   "image": {
+    "file": "Астана, Большой Талдыколь сверху.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B0%2C_%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%A2%D0%B0%D0%BB%D0%B4%D1%8B%D0%BA%D0%BE%D0%BB%D1%8C_%D1%81%D0%B2%D0%B5%D1%80%D1%85%D1%83.jpg/960px-%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B0%2C_%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%A2%D0%B0%D0%BB%D0%B4%D1%8B%D0%BA%D0%BE%D0%BB%D1%8C_%D1%81%D0%B2%D0%B5%D1%80%D1%85%D1%83.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B0,_%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%A2%D0%B0%D0%BB%D0%B4%D1%8B%D0%BA%D0%BE%D0%BB%D1%8C_%D1%81%D0%B2%D0%B5%D1%80%D1%85%D1%83.jpg",
+    "artist": "Nikolai Bulykin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+   },
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q32205731": {
+   "types": [
+    {
+     "q": "Q23397",
+     "ru": "озеро",
+     "en": "lake"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q33121441": {
+   "types": [
+    {
+     "q": "Q13226383",
+     "ru": "площадка",
+     "en": "facility"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q33811540": {
+   "types": [
+    {
+     "q": "Q41253",
+     "ru": "кинотеатр",
+     "en": "movie theater"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q42416691": {
+   "types": [
+    {
+     "q": "Q34627",
+     "ru": "синагога",
+     "en": "synagogue"
+    }
+   ],
+   "image": {
+    "file": "Beit Rachel Synagogue, Astana.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Beit_Rachel_Synagogue%2C_Astana.jpg/960px-Beit_Rachel_Synagogue%2C_Astana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Beit_Rachel_Synagogue,_Astana.jpg",
+    "artist": "אמר מר",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+   },
+   "enwiki_url": "https://en.wikipedia.org/wiki/Beit_Rachel_Synagogue,_Astana",
+   "enwiki_intro": "Beit Rachel Synagogue is a synagogue in Astana, Kazakhstan. Opened on September 7, 2004, it is the largest synagogue in Central Asia.\nIts opening ceremony was attended by President of Kazakhstan Nursultan Nazarbayev and Chief Ashkenazi Rabbi of Israel Yona Metzger. Its construction was funded by Kazakh-Israeli billionaire Alexander Mashkevitch. The synagogue is named after Rachel Joffe, mother of Alexander Mashkevich, leader of Kazakh Jewry and president of the EAJC. The Jakarta Post describes the synagogue, a rare example of its kind a Muslim-majority country, as \"a symbol of how a Muslim country can build and sustain a peaceful relationship between Islam and Judaism.\""
+  },
+  "Q42422250": {
+   "types": [
+    {
+     "q": "Q22698",
+     "ru": "парк",
+     "en": "park"
+    }
+   ],
+   "image": {
+    "file": "KazMunayGas 03.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/KazMunayGas_03.jpg/960px-KazMunayGas_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:KazMunayGas_03.jpg",
+    "artist": "Davide Mauro",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+   },
+   "enwiki_url": "https://en.wikipedia.org/wiki/Lovers%27_Park_(Astana)",
+   "enwiki_intro": null
+  },
+  "Q42422896": {
+   "types": [
+    {
+     "q": "Q4989906",
+     "ru": "памятник",
+     "en": "monument"
+    }
+   ],
+   "image": null,
+   "enwiki_url": "https://en.wikipedia.org/wiki/M%C3%A4%C3%B1g%C4%B1l%C4%B1k_El_Triumphal_Arch",
+   "enwiki_intro": "Mäñgılık El (Kazakh: Мәңгілік ел, lit. 'Eternal Nation') is a 20-meter-tall triumphal arch located in Astana, Kazakhstan. The monument was inaugurated on 16 December 2011, marking the 20th anniversary of Kazakhstan’s independence. It was initiated by the country’s first president, Nursultan Nazarbayev."
+  },
+  "Q42768422": {
+   "types": [
+    {
+     "q": "Q24354",
+     "ru": "здание театра",
+     "en": "theatre building"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q43895215": {
+   "types": [
+    {
+     "q": "Q43229",
+     "ru": "организация",
+     "en": "organization"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q48780885": {
+   "types": [
+    {
+     "q": "Q174782",
+     "ru": "площадь",
+     "en": "square"
+    }
+   ],
+   "image": {
+    "file": "Kazakh Eli.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Kazakh_Eli.jpg/960px-Kazakh_Eli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Kazakh_Eli.jpg",
+    "artist": "Ken and Nyetta",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+   },
+   "enwiki_url": "https://en.wikipedia.org/wiki/Independence_Square,_Astana",
+   "enwiki_intro": null
+  },
+  "Q50036996": {
+   "types": [
+    {
+     "q": "Q43229",
+     "ru": "организация",
+     "en": "organization"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q50809149": {
+   "types": [
+    {
+     "q": "Q27686",
+     "ru": "гостиница",
+     "en": "hotel"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q57782659": {
+   "types": [
+    {
+     "q": "Q129675946",
+     "ru": "район города республиканского значения Казахстана",
+     "en": "district of a city of republican significance in Kazakhstan"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q60446898": {
+   "types": [
+    {
+     "q": "Q41176",
+     "ru": "здание",
+     "en": "building"
+    }
+   ],
+   "image": {
+    "file": "Palace of Arts Shabyt.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Palace_of_Arts_Shabyt.jpg/960px-Palace_of_Arts_Shabyt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Palace_of_Arts_Shabyt.jpg",
+    "artist": "Ken and Nyetta",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+   },
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q65048900": {
+   "types": [
+    {
+     "q": "Q27686",
+     "ru": "гостиница",
+     "en": "hotel"
+    }
+   ],
+   "image": {
+    "file": "RIXOS ASTANA,KAZAKHSTAN - panoramio.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/RIXOS_ASTANA%2CKAZAKHSTAN_-_panoramio.jpg/960px-RIXOS_ASTANA%2CKAZAKHSTAN_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:RIXOS_ASTANA,KAZAKHSTAN_-_panoramio.jpg",
+    "artist": "Kayhan ERTUGRUL",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+   },
+   "enwiki_url": "https://en.wikipedia.org/wiki/Rixos_President_Astana",
+   "enwiki_intro": "Rixos President Astana is a luxury (5-star) hotel, which is part of the international Rixos Hotels  chain founded by Fettah Tamince  Rixos President Astana constructed in 2005 in Astana by The Sembol İnşaat Construction Company  The first president of the Republic of Kazakhstan - Nursultan Nazarbayev visited opening ceremony  Rixos President Astana was constructed in 9 months and is the first 5 star hotel in the Republic of Kazakhstan."
+  },
+  "Q85758095": {
+   "types": [
+    {
+     "q": "Q174782",
+     "ru": "площадь",
+     "en": "square"
+    }
+   ],
+   "image": null,
+   "enwiki_url": "https://en.wikipedia.org/wiki/D%C3%B6%C3%B1gelek_Square",
+   "enwiki_intro": null
+  },
+  "Q85787940": {
+   "types": [
+    {
+     "q": "Q2772772",
+     "ru": "военный музей",
+     "en": "military museum"
+    }
+   ],
+   "image": null,
+   "enwiki_url": "https://en.wikipedia.org/wiki/National_Military-Patriotic_Center_of_the_Armed_Forces_of_Kazakhstan",
+   "enwiki_intro": "The National Military-Patriotic Center of the Armed Forces of Kazakhstan (Kazakh: Қазақстан Қарулы Күштерінің Ұлттық әскери-патриоттық орталығы, ҰӘПО, romanized: Qazaqstan Qaruly Küşterınıñ Ūlttyq äskeri-patriottyq ortalyğy, ŪÄPO; Russian: Национальный военно-патриотический центр Вооруженных Сил Казахстан, НВПЦ, romanized: Natsional'nyy voenno-patrioticheskiy tsentr Vooruzhennykh Sil Kazakhstan, NVPTs) is a museum of the Armed Forces of Kazakhstan. Located on Respublika Avenue in the capital of Astana, it was conceived by Minister of Defense Saken Zhasuzakov and was officially opened by decree of the President of Kazakhstan Nursultan Nazarbayev on 1 December 2016 (an official holiday as it coincided with the Day of the First President). The center is located at the former building of the Presidential Palace of Culture and the Nazarbayev Center."
+  },
+  "Q90571378": {
+   "types": [
+    {
+     "q": "Q2385804",
+     "ru": "образовательное учреждение",
+     "en": "educational institution"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q96035145": {
+   "types": [
+    {
+     "q": "Q1060829",
+     "ru": "концертный зал",
+     "en": "concert hall"
+    },
+    {
+     "q": "Q184644",
+     "ru": "консерватория",
+     "en": "conservatory"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q97163750": {
+   "types": [
+    {
+     "q": "Q41176",
+     "ru": "здание",
+     "en": "building"
+    }
+   ],
+   "image": {
+    "file": "Blagoveschenskiy House Nur-Sultan 1.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Blagoveschenskiy_House_Nur-Sultan_1.jpg/960px-Blagoveschenskiy_House_Nur-Sultan_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Blagoveschenskiy_House_Nur-Sultan_1.jpg",
+    "artist": "Yakov Fedorov",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+   },
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q97165482": {
+   "types": [
+    {
+     "q": "Q41176",
+     "ru": "здание",
+     "en": "building"
+    }
+   ],
+   "image": {
+    "file": "Kubrin Hospital Nur-Sultan.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Kubrin_Hospital_Nur-Sultan.jpg/960px-Kubrin_Hospital_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Kubrin_Hospital_Nur-Sultan.jpg",
+    "artist": "Yakov Fedorov",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+   },
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q97165767": {
+   "types": [
+    {
+     "q": "Q41176",
+     "ru": "здание",
+     "en": "building"
+    }
+   ],
+   "image": {
+    "file": "Kubrin House Nur-Sultan.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Kubrin_House_Nur-Sultan.jpg/960px-Kubrin_House_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Kubrin_House_Nur-Sultan.jpg",
+    "artist": "Yakov Fedorov",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+   },
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q97165888": {
+   "types": [
+    {
+     "q": "Q41176",
+     "ru": "здание",
+     "en": "building"
+    }
+   ],
+   "image": {
+    "file": "Muslim school astana.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Muslim_school_astana.jpg/960px-Muslim_school_astana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Muslim_school_astana.jpg",
+    "artist": "Talgautb",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+   },
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q97165900": {
+   "types": [
+    {
+     "q": "Q41176",
+     "ru": "здание",
+     "en": "building"
+    }
+   ],
+   "image": {
+    "file": "City Uprava Building Nur-Sultan.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/City_Uprava_Building_Nur-Sultan.jpg/960px-City_Uprava_Building_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:City_Uprava_Building_Nur-Sultan.jpg",
+    "artist": "Yakov Fedorov",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+   },
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q97166399": {
+   "types": [
+    {
+     "q": "Q2319498",
+     "ru": "памятник архитектуры",
+     "en": "architectural landmark"
+    }
+   ],
+   "image": {
+    "file": "Green Mosque Nur-Sultan.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Green_Mosque_Nur-Sultan.jpg/960px-Green_Mosque_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Green_Mosque_Nur-Sultan.jpg",
+    "artist": "Yakov Fedorov",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+   },
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q97167320": {
+   "types": [
+    {
+     "q": "Q41176",
+     "ru": "здание",
+     "en": "building"
+    }
+   ],
+   "image": {
+    "file": "Kosshygulov School Nur-Sultan.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Kosshygulov_School_Nur-Sultan.jpg/960px-Kosshygulov_School_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Kosshygulov_School_Nur-Sultan.jpg",
+    "artist": "Yakov Fedorov",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+   },
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q97168850": {
+   "types": [
+    {
+     "q": "Q41176",
+     "ru": "здание",
+     "en": "building"
+    }
+   ],
+   "image": {
+    "file": "Nur-Sultan - 190217 DSC 3866.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Nur-Sultan_-_190217_DSC_3866.jpg/960px-Nur-Sultan_-_190217_DSC_3866.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Nur-Sultan_-_190217_DSC_3866.jpg",
+    "artist": "Ilya Varlamov",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+   },
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q97212648": {
+   "types": [
+    {
+     "q": "Q41176",
+     "ru": "здание",
+     "en": "building"
+    }
+   ],
+   "image": {
+    "file": "Silin House Nur-Sultan.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Silin_House_Nur-Sultan.jpg/960px-Silin_House_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Silin_House_Nur-Sultan.jpg",
+    "artist": "Yakov Fedorov",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+   },
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q97274773": {
+   "types": [
+    {
+     "q": "Q41176",
+     "ru": "здание",
+     "en": "building"
+    }
+   ],
+   "image": {
+    "file": "Moiseev House Nur-Sultan.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Moiseev_House_Nur-Sultan.jpg/960px-Moiseev_House_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Moiseev_House_Nur-Sultan.jpg",
+    "artist": "Yakov Fedorov",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+   },
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q97274797": {
+   "types": [
+    {
+     "q": "Q41176",
+     "ru": "здание",
+     "en": "building"
+    }
+   ],
+   "image": {
+    "file": "Egorov House Nur-Sultan.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Egorov_House_Nur-Sultan.jpg/960px-Egorov_House_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Egorov_House_Nur-Sultan.jpg",
+    "artist": "Yakov Fedorov",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+   },
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q97274875": {
+   "types": [
+    {
+     "q": "Q41176",
+     "ru": "здание",
+     "en": "building"
+    }
+   ],
+   "image": {
+    "file": "Zdanie meteostancii astana.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Zdanie_meteostancii_astana.jpg/960px-Zdanie_meteostancii_astana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Zdanie_meteostancii_astana.jpg",
+    "artist": "Talgautb",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+   },
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q97496724": {
+   "types": [
+    {
+     "q": "Q41253",
+     "ru": "кинотеатр",
+     "en": "movie theater"
+    }
+   ],
+   "image": {
+    "file": "Oktyabr Cinema Building Nur-Sultan.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Oktyabr_Cinema_Building_Nur-Sultan.jpg/960px-Oktyabr_Cinema_Building_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Oktyabr_Cinema_Building_Nur-Sultan.jpg",
+    "artist": "Yakov Fedorov",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+   },
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q104864810": {
+   "types": [
+    {
+     "q": "Q494829",
+     "ru": "автостанция",
+     "en": "bus station"
+    }
+   ],
+   "image": null,
+   "enwiki_url": "https://en.wikipedia.org/wiki/Astana-Saparjai-1_Bus_Station",
+   "enwiki_intro": "The Astana-Saparjai-1 (Kazakh: Астана-Сапаржай-1) is a bus station located in the city of Astana. The bus station serves more than 60 intercity, interregional and international routes daily, which carry about 1 million passengers a year."
+  },
+  "Q104866684": {
+   "types": [
+    {
+     "q": "Q22698",
+     "ru": "парк",
+     "en": "park"
+    }
+   ],
+   "image": {
+    "file": "Presidential Park 01.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Presidential_Park_01.jpg/960px-Presidential_Park_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Presidential_Park_01.jpg",
+    "artist": "Davide Mauro",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+   },
+   "enwiki_url": "https://en.wikipedia.org/wiki/Presidential_Park",
+   "enwiki_intro": null
+  },
+  "Q104866885": {
+   "types": [
+    {
+     "q": "Q22746",
+     "ru": "городской парк",
+     "en": "urban park"
+    }
+   ],
+   "image": {
+    "file": "Astana Triathlon Park View.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Astana_Triathlon_Park_View.jpg/960px-Astana_Triathlon_Park_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Astana_Triathlon_Park_View.jpg",
+    "artist": "Gfrc360",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+   },
+   "enwiki_url": "https://en.wikipedia.org/wiki/Astana_Triathlon_Park",
+   "enwiki_intro": null
+  },
+  "Q104866925": {
+   "types": [
+    {
+     "q": "Q22698",
+     "ru": "парк",
+     "en": "park"
+    }
+   ],
+   "image": {
+    "file": "Improvisation of Charyn Canyon in Jetisy park.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Improvisation_of_Charyn_Canyon_in_Jetisy_park.jpg/960px-Improvisation_of_Charyn_Canyon_in_Jetisy_park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Improvisation_of_Charyn_Canyon_in_Jetisy_park.jpg",
+    "artist": "Ayratayrat",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+   },
+   "enwiki_url": "https://en.wikipedia.org/wiki/Jetisu_Park",
+   "enwiki_intro": null
+  },
+  "Q104866948": {
+   "types": [
+    {
+     "q": "Q112128334",
+     "ru": "особо охраняемая природная территория республиканского значения Казахстана",
+     "en": "protected area of Kazakhstan of republican significance"
+    },
+    {
+     "q": "Q167346",
+     "ru": "ботанический сад",
+     "en": "botanical garden"
+    },
+    {
+     "q": "Q473972",
+     "ru": "природоохранная зона",
+     "en": "protected area"
+    }
+   ],
+   "image": {
+    "file": "A view of Nur-Sultan's Botanical Garden.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/A_view_of_Nur-Sultan%27s_Botanical_Garden.jpg/960px-A_view_of_Nur-Sultan%27s_Botanical_Garden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:A_view_of_Nur-Sultan%27s_Botanical_Garden.jpg",
+    "artist": "Demir Berisha",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+   },
+   "enwiki_url": "https://en.wikipedia.org/wiki/Astana_Botanical_Garden",
+   "enwiki_intro": null
+  },
+  "Q107451644": {
+   "types": [],
+   "image": null,
+   "enwiki_url": "https://en.wikipedia.org/wiki/Demalys_Promenade",
+   "enwiki_intro": "The Demalys Promenade, also known as Arbat, is a pedestrian zone located in the historical part of the Astana, Kazakhstan that encompasses the section of Azerbaijan Mambetov Street. The area was created as part of the city's renovation plan and is open to any pedestrians on weekends and holidays with various concerts and entertainments being organised for the residents of Astana. Other entertainment venues such as fairgrounds, staging scenes, training places for sports are located within the zone."
+  },
+  "Q107519962": {
+   "types": [
+    {
+     "q": "Q4287745",
+     "ru": "медицинская организация",
+     "en": "medical organization"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q108533991": {
+   "types": [
+    {
+     "q": "Q23397",
+     "ru": "озеро",
+     "en": "lake"
+    }
+   ],
+   "image": {
+    "file": "Астана, Талдыколь сверху.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B0%2C_%D0%A2%D0%B0%D0%BB%D0%B4%D1%8B%D0%BA%D0%BE%D0%BB%D1%8C_%D1%81%D0%B2%D0%B5%D1%80%D1%85%D1%83.jpg/960px-%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B0%2C_%D0%A2%D0%B0%D0%BB%D0%B4%D1%8B%D0%BA%D0%BE%D0%BB%D1%8C_%D1%81%D0%B2%D0%B5%D1%80%D1%85%D1%83.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B0,_%D0%A2%D0%B0%D0%BB%D0%B4%D1%8B%D0%BA%D0%BE%D0%BB%D1%8C_%D1%81%D0%B2%D0%B5%D1%80%D1%85%D1%83.jpg",
+    "artist": "Nikolai Bulykin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+   },
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q108783123": {
+   "types": [
+    {
+     "q": "Q18608583",
+     "ru": "повторяющееся спортивное событие",
+     "en": "recurring sporting event"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q108783909": {
+   "types": [
+    {
+     "q": "Q18608583",
+     "ru": "повторяющееся спортивное событие",
+     "en": "recurring sporting event"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q108785061": {
+   "types": [
+    {
+     "q": "Q130212458",
+     "ru": "село в Казахстане",
+     "en": "village of Kazakhstan"
+    },
+    {
+     "q": "Q486972",
+     "ru": "населённый пункт",
+     "en": "human settlement"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q109452600": {
+   "types": [
+    {
+     "q": "Q847017",
+     "ru": "спортивный клуб",
+     "en": "sports club"
+    }
+   ],
+   "image": {
+    "file": "SD Family Astana.png",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/e/ec/SD_Family_Astana.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:SD_Family_Astana.png",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null
+   },
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q109715788": {
+   "types": [
+    {
+     "q": "Q23397",
+     "ru": "озеро",
+     "en": "lake"
+    }
+   ],
+   "image": {
+    "file": "ISS023-E-42356 - View of Kazakhstan (cropped).jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/ISS023-E-42356_-_View_of_Kazakhstan_%28cropped%29.jpg/960px-ISS023-E-42356_-_View_of_Kazakhstan_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:ISS023-E-42356_-_View_of_Kazakhstan_(cropped).jpg",
+    "artist": "Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center",
+    "license": "Public domain",
+    "license_url": null
+   },
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q111113602": {
+   "types": [
+    {
+     "q": "Q654772",
+     "ru": "хостел",
+     "en": "hostel"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q111113604": {
+   "types": [
+    {
+     "q": "Q654772",
+     "ru": "хостел",
+     "en": "hostel"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q111113606": {
+   "types": [
+    {
+     "q": "Q654772",
+     "ru": "хостел",
+     "en": "hostel"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q111113608": {
+   "types": [
+    {
+     "q": "Q654772",
+     "ru": "хостел",
+     "en": "hostel"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q111402853": {
+   "types": [
+    {
+     "q": "Q27686",
+     "ru": "гостиница",
+     "en": "hotel"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q111862433": {
+   "types": [
+    {
+     "q": "Q27686",
+     "ru": "гостиница",
+     "en": "hotel"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q111862434": {
+   "types": [
+    {
+     "q": "Q27686",
+     "ru": "гостиница",
+     "en": "hotel"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q111862435": {
+   "types": [
+    {
+     "q": "Q27686",
+     "ru": "гостиница",
+     "en": "hotel"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q111862460": {
+   "types": [
+    {
+     "q": "Q27686",
+     "ru": "гостиница",
+     "en": "hotel"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q111862464": {
+   "types": [
+    {
+     "q": "Q27686",
+     "ru": "гостиница",
+     "en": "hotel"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q111862465": {
+   "types": [
+    {
+     "q": "Q27686",
+     "ru": "гостиница",
+     "en": "hotel"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q111862466": {
+   "types": [
+    {
+     "q": "Q27686",
+     "ru": "гостиница",
+     "en": "hotel"
+    }
+   ],
+   "image": {
+    "file": "Best Western Plus, Astana (LRM 20240816 183134).jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Best_Western_Plus%2C_Astana_%28LRM_20240816_183134%29.jpg/960px-Best_Western_Plus%2C_Astana_%28LRM_20240816_183134%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Best_Western_Plus,_Astana_(LRM_20240816_183134).jpg",
+    "artist": "Matti Blume",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+   },
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q111862467": {
+   "types": [
+    {
+     "q": "Q27686",
+     "ru": "гостиница",
+     "en": "hotel"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q111862468": {
+   "types": [
+    {
+     "q": "Q27686",
+     "ru": "гостиница",
+     "en": "hotel"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q111862469": {
+   "types": [
+    {
+     "q": "Q27686",
+     "ru": "гостиница",
+     "en": "hotel"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q111862470": {
+   "types": [
+    {
+     "q": "Q27686",
+     "ru": "гостиница",
+     "en": "hotel"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q111862471": {
+   "types": [
+    {
+     "q": "Q27686",
+     "ru": "гостиница",
+     "en": "hotel"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q111862472": {
+   "types": [
+    {
+     "q": "Q27686",
+     "ru": "гостиница",
+     "en": "hotel"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q111862474": {
+   "types": [
+    {
+     "q": "Q27686",
+     "ru": "гостиница",
+     "en": "hotel"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q111862475": {
+   "types": [
+    {
+     "q": "Q27686",
+     "ru": "гостиница",
+     "en": "hotel"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q111862476": {
+   "types": [
+    {
+     "q": "Q27686",
+     "ru": "гостиница",
+     "en": "hotel"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q111862477": {
+   "types": [
+    {
+     "q": "Q27686",
+     "ru": "гостиница",
+     "en": "hotel"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q112003940": {
+   "types": [
+    {
+     "q": "Q27686",
+     "ru": "гостиница",
+     "en": "hotel"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q112004014": {
+   "types": [
+    {
+     "q": "Q27686",
+     "ru": "гостиница",
+     "en": "hotel"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q112004019": {
+   "types": [
+    {
+     "q": "Q27686",
+     "ru": "гостиница",
+     "en": "hotel"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q112004020": {
+   "types": [
+    {
+     "q": "Q27686",
+     "ru": "гостиница",
+     "en": "hotel"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q112004021": {
+   "types": [
+    {
+     "q": "Q27686",
+     "ru": "гостиница",
+     "en": "hotel"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q112004022": {
+   "types": [
+    {
+     "q": "Q27686",
+     "ru": "гостиница",
+     "en": "hotel"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q112004023": {
+   "types": [
+    {
+     "q": "Q27686",
+     "ru": "гостиница",
+     "en": "hotel"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q112004024": {
+   "types": [
+    {
+     "q": "Q27686",
+     "ru": "гостиница",
+     "en": "hotel"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q112004025": {
+   "types": [
+    {
+     "q": "Q27686",
+     "ru": "гостиница",
+     "en": "hotel"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q112004026": {
+   "types": [
+    {
+     "q": "Q27686",
+     "ru": "гостиница",
+     "en": "hotel"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q112004027": {
+   "types": [
+    {
+     "q": "Q27686",
+     "ru": "гостиница",
+     "en": "hotel"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q112004028": {
+   "types": [
+    {
+     "q": "Q27686",
+     "ru": "гостиница",
+     "en": "hotel"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q112004029": {
+   "types": [
+    {
+     "q": "Q27686",
+     "ru": "гостиница",
+     "en": "hotel"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q112004030": {
+   "types": [
+    {
+     "q": "Q27686",
+     "ru": "гостиница",
+     "en": "hotel"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q112004031": {
+   "types": [
+    {
+     "q": "Q27686",
+     "ru": "гостиница",
+     "en": "hotel"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q112004032": {
+   "types": [
+    {
+     "q": "Q27686",
+     "ru": "гостиница",
+     "en": "hotel"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q112004033": {
+   "types": [
+    {
+     "q": "Q27686",
+     "ru": "гостиница",
+     "en": "hotel"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q112584881": {
+   "types": [
+    {
+     "q": "Q162602",
+     "ru": "речной остров",
+     "en": "river island"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q113119435": {
+   "types": [
+    {
+     "q": "Q44539",
+     "ru": "храм",
+     "en": "temple"
+    }
+   ],
+   "image": {
+    "file": "Astana DSC04401 (7711512634).jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Astana_DSC04401_%287711512634%29.jpg/960px-Astana_DSC04401_%287711512634%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Astana_DSC04401_(7711512634).jpg",
+    "artist": "jtstewart",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+   },
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q113675887": {
+   "types": [
+    {
+     "q": "Q32815",
+     "ru": "мечеть",
+     "en": "mosque"
+    }
+   ],
+   "image": null,
+   "enwiki_url": "https://en.wikipedia.org/wiki/Nursultan_Mosque",
+   "enwiki_intro": null
+  },
+  "Q114939688": {
+   "types": [
+    {
+     "q": "Q4654165",
+     "ru": "Категория:Википедия:Викивстречи",
+     "en": "Category:Wikipedia meetups"
+    }
+   ],
+   "image": {
+    "file": "Нур-Султан, викимедийцы в кафе 26.04.2022.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/%D0%9D%D1%83%D1%80-%D0%A1%D1%83%D0%BB%D1%82%D0%B0%D0%BD%2C_%D0%B2%D0%B8%D0%BA%D0%B8%D0%BC%D0%B5%D0%B4%D0%B8%D0%B9%D1%86%D1%8B_%D0%B2_%D0%BA%D0%B0%D1%84%D0%B5_26.04.2022.jpg/960px-%D0%9D%D1%83%D1%80-%D0%A1%D1%83%D0%BB%D1%82%D0%B0%D0%BD%2C_%D0%B2%D0%B8%D0%BA%D0%B8%D0%BC%D0%B5%D0%B4%D0%B8%D0%B9%D1%86%D1%8B_%D0%B2_%D0%BA%D0%B0%D1%84%D0%B5_26.04.2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:%D0%9D%D1%83%D1%80-%D0%A1%D1%83%D0%BB%D1%82%D0%B0%D0%BD,_%D0%B2%D0%B8%D0%BA%D0%B8%D0%BC%D0%B5%D0%B4%D0%B8%D0%B9%D1%86%D1%8B_%D0%B2_%D0%BA%D0%B0%D1%84%D0%B5_26.04.2022.jpg",
+    "artist": "Nikolai Bulykin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+   },
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q115128634": {
+   "types": [
+    {
+     "q": "Q4654165",
+     "ru": "Категория:Википедия:Викивстречи",
+     "en": "Category:Wikipedia meetups"
+    }
+   ],
+   "image": {
+    "file": "Встреча 04.11 Астана.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0_04.11_%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B0.jpg/960px-%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0_04.11_%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0_04.11_%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B0.jpg",
+    "artist": "ElenaLitera",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+   },
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q117835598": {
+   "types": [
+    {
+     "q": "Q32815",
+     "ru": "мечеть",
+     "en": "mosque"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q118352579": {
+   "types": [
+    {
+     "q": "Q130212458",
+     "ru": "село в Казахстане",
+     "en": "village of Kazakhstan"
+    },
+    {
+     "q": "Q486972",
+     "ru": "населённый пункт",
+     "en": "human settlement"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q118352581": {
+   "types": [
+    {
+     "q": "Q130212458",
+     "ru": "село в Казахстане",
+     "en": "village of Kazakhstan"
+    },
+    {
+     "q": "Q486972",
+     "ru": "населённый пункт",
+     "en": "human settlement"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q118352584": {
+   "types": [
+    {
+     "q": "Q130212458",
+     "ru": "село в Казахстане",
+     "en": "village of Kazakhstan"
+    },
+    {
+     "q": "Q486972",
+     "ru": "населённый пункт",
+     "en": "human settlement"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q118352586": {
+   "types": [
+    {
+     "q": "Q130212458",
+     "ru": "село в Казахстане",
+     "en": "village of Kazakhstan"
+    },
+    {
+     "q": "Q486972",
+     "ru": "населённый пункт",
+     "en": "human settlement"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q118352589": {
+   "types": [
+    {
+     "q": "Q130212458",
+     "ru": "село в Казахстане",
+     "en": "village of Kazakhstan"
+    },
+    {
+     "q": "Q486972",
+     "ru": "населённый пункт",
+     "en": "human settlement"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q118352591": {
+   "types": [
+    {
+     "q": "Q130212458",
+     "ru": "село в Казахстане",
+     "en": "village of Kazakhstan"
+    },
+    {
+     "q": "Q486972",
+     "ru": "населённый пункт",
+     "en": "human settlement"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q118352593": {
+   "types": [
+    {
+     "q": "Q130212458",
+     "ru": "село в Казахстане",
+     "en": "village of Kazakhstan"
+    },
+    {
+     "q": "Q486972",
+     "ru": "населённый пункт",
+     "en": "human settlement"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q120785027": {
+   "types": [
+    {
+     "q": "Q32815",
+     "ru": "мечеть",
+     "en": "mosque"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q120868806": {
+   "types": [
+    {
+     "q": "Q32815",
+     "ru": "мечеть",
+     "en": "mosque"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q120868807": {
+   "types": [
+    {
+     "q": "Q32815",
+     "ru": "мечеть",
+     "en": "mosque"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q120868819": {
+   "types": [
+    {
+     "q": "Q22698",
+     "ru": "парк",
+     "en": "park"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q120868821": {
+   "types": [
+    {
+     "q": "Q32815",
+     "ru": "мечеть",
+     "en": "mosque"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q120868822": {
+   "types": [
+    {
+     "q": "Q22698",
+     "ru": "парк",
+     "en": "park"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q122104745": {
+   "types": [
+    {
+     "q": "Q625994",
+     "ru": "собрание",
+     "en": "convention"
+    }
+   ],
+   "image": {
+    "file": "Вики-конференция в Астане 2023-09-02, общее фото.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/%D0%92%D0%B8%D0%BA%D0%B8-%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D1%8F_%D0%B2_%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B5_2023-09-02%2C_%D0%BE%D0%B1%D1%89%D0%B5%D0%B5_%D1%84%D0%BE%D1%82%D0%BE.jpg/960px-%D0%92%D0%B8%D0%BA%D0%B8-%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D1%8F_%D0%B2_%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B5_2023-09-02%2C_%D0%BE%D0%B1%D1%89%D0%B5%D0%B5_%D1%84%D0%BE%D1%82%D0%BE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%B8%D0%BA%D0%B8-%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D1%8F_%D0%B2_%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B5_2023-09-02,_%D0%BE%D0%B1%D1%89%D0%B5%D0%B5_%D1%84%D0%BE%D1%82%D0%BE.jpg",
+    "artist": "Nikolai Bulykin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+   },
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q122526919": {
+   "types": [
+    {
+     "q": "Q24354",
+     "ru": "здание театра",
+     "en": "theatre building"
+    }
+   ],
+   "image": {
+    "file": "Астана балет.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B0_%D0%B1%D0%B0%D0%BB%D0%B5%D1%82.jpg/960px-%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B0_%D0%B1%D0%B0%D0%BB%D0%B5%D1%82.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B0_%D0%B1%D0%B0%D0%BB%D0%B5%D1%82.jpg",
+    "artist": "Ayazhan Temirbolat",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+   },
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q124371412": {
+   "types": [
+    {
+     "q": "Q4989906",
+     "ru": "памятник",
+     "en": "monument"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q124621727": {
+   "types": [
+    {
+     "q": "Q860861",
+     "ru": "скульптура",
+     "en": "sculpture"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q124731313": {
+   "types": [
+    {
+     "q": "Q137794598",
+     "ru": null,
+     "en": "ministry of Kazakhstan"
+    },
+    {
+     "q": "Q6867185",
+     "ru": "министерство промышленности",
+     "en": "ministry of industry"
+    },
+    {
+     "q": "Q811582",
+     "ru": "министерство строительства",
+     "en": "construction ministry"
+    }
+   ],
+   "image": null,
+   "enwiki_url": "https://en.wikipedia.org/wiki/Ministry_of_Industry_and_Construction",
+   "enwiki_intro": null
+  },
+  "Q126810644": {
+   "types": [
+    {
+     "q": "Q137794598",
+     "ru": null,
+     "en": "ministry of Kazakhstan"
+    },
+    {
+     "q": "Q2516426",
+     "ru": "министерство транспорта",
+     "en": "transport ministry"
+    },
+    {
+     "q": "Q192350",
+     "ru": "министерство",
+     "en": "ministry"
+    }
+   ],
+   "image": null,
+   "enwiki_url": "https://en.wikipedia.org/wiki/Ministry_of_Transport_(Kazakhstan)",
+   "enwiki_intro": null
+  },
+  "Q130062654": {
+   "types": [
+    {
+     "q": "Q537127",
+     "ru": "автомобильный мост",
+     "en": "road bridge"
+    },
+    {
+     "q": "Q158438",
+     "ru": "арочный мост",
+     "en": "arch bridge"
+    }
+   ],
+   "image": {
+    "file": "New Astana Skyline (9587635437)1.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/8/8a/New_Astana_Skyline_%289587635437%291.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:New_Astana_Skyline_(9587635437)1.jpg",
+    "artist": "Ken and Nyetta",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+   },
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q130062865": {
+   "types": [
+    {
+     "q": "Q537127",
+     "ru": "автомобильный мост",
+     "en": "road bridge"
+    },
+    {
+     "q": "Q158438",
+     "ru": "арочный мост",
+     "en": "arch bridge"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q130080414": {
+   "types": [
+    {
+     "q": "Q1068842",
+     "ru": "пешеходный мост",
+     "en": "footbridge"
+    }
+   ],
+   "image": {
+    "file": "Saryarka District, Astana (P1190733).jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Saryarka_District%2C_Astana_%28P1190733%29.jpg/960px-Saryarka_District%2C_Astana_%28P1190733%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Saryarka_District,_Astana_(P1190733).jpg",
+    "artist": "Matti Blume",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+   },
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q130081292": {
+   "types": [
+    {
+     "q": "Q537127",
+     "ru": "автомобильный мост",
+     "en": "road bridge"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q132133114": {
+   "types": [
+    {
+     "q": "Q48204",
+     "ru": "добровольная ассоциация",
+     "en": "voluntary association"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q133821908": {
+   "types": [
+    {
+     "q": "Q16917",
+     "ru": "больница",
+     "en": "hospital"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q134479875": {
+   "types": [
+    {
+     "q": "Q87415039",
+     "ru": "орган по аккредитации",
+     "en": "accrediting body"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q134484453": {
+   "types": [
+    {
+     "q": "Q87415039",
+     "ru": "орган по аккредитации",
+     "en": "accrediting body"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q135106379": {
+   "types": [
+    {
+     "q": "Q483110",
+     "ru": "стадион",
+     "en": "stadium"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q136090752": {
+   "types": [
+    {
+     "q": "Q55488",
+     "ru": "железнодорожная станция",
+     "en": "railway station"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q136268973": {
+   "types": [
+    {
+     "q": "Q55488",
+     "ru": "железнодорожная станция",
+     "en": "railway station"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q136762132": {
+   "types": [
+    {
+     "q": "Q79007",
+     "ru": "улица",
+     "en": "street"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q137042408": {
+   "types": [
+    {
+     "q": "Q130212458",
+     "ru": "село в Казахстане",
+     "en": "village of Kazakhstan"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q137321740": {
+   "types": [
+    {
+     "q": "Q3918",
+     "ru": "университет",
+     "en": "university"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q137427254": {
+   "types": [
+    {
+     "q": "Q137794598",
+     "ru": null,
+     "en": "ministry of Kazakhstan"
+    },
+    {
+     "q": "Q327333",
+     "ru": "орган публичной власти",
+     "en": "government agency"
+    },
+    {
+     "q": "Q2269756",
+     "ru": "министерство образования",
+     "en": "ministry of education"
+    },
+    {
+     "q": "Q1313096",
+     "ru": "министерство науки и технологии",
+     "en": "ministry of science"
+    }
+   ],
+   "image": null,
+   "enwiki_url": "https://en.wikipedia.org/wiki/Ministry_of_Science_and_Higher_Education_(Kazakhstan)",
+   "enwiki_intro": null
+  },
+  "Q137551659": {
+   "types": [
+    {
+     "q": "Q11670533",
+     "ru": "приподнятая станция",
+     "en": "elevated station"
+    },
+    {
+     "q": "Q2175765",
+     "ru": "трамвайная остановка",
+     "en": "tram stop"
+    },
+    {
+     "q": "Q928830",
+     "ru": "станция метрополитена",
+     "en": "metro station"
+    },
+    {
+     "q": "Q1335652",
+     "ru": "железнодорожная станция при аэропорте",
+     "en": "airport railway station"
+    }
+   ],
+   "image": {
+    "file": "Platform view at Airport station of the Astana Light Rail Transit (LRT) system serving Astana International Airport.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Platform_view_at_Airport_station_of_the_Astana_Light_Rail_Transit_%28LRT%29_system_serving_Astana_International_Airport.jpg/960px-Platform_view_at_Airport_station_of_the_Astana_Light_Rail_Transit_%28LRT%29_system_serving_Astana_International_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Platform_view_at_Airport_station_of_the_Astana_Light_Rail_Transit_(LRT)_system_serving_Astana_International_Airport.jpg",
+    "artist": "Kristianmusic",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+   },
+   "enwiki_url": "https://en.wikipedia.org/wiki/Airport_(Astana_LRT)",
+   "enwiki_intro": "Airport (Kazakh: Әуежай, romanized: Äuejai;  Russian: Аэропорт, romanized: Aeroport) is an elevated passenger light rapid transit (LRT) station of the Astana Light Metro that serves the international airport of Astana, Kazakhstan. The station opened as part of the Line 1 on 16 May 2026. It serves as one of the stations on the Line 1. This station provides access to the airport's Domestic Terminal - T2. It is approximately a 5-minute walk from Terminal 1. The station is also close to a number of bus routes.\nThe station along with the line is owned and operated by municipally owned City Transportation Systems. It operates services every 5 to 10 min between 06.00 and 23.00."
+  },
+  "Q137551660": {
+   "types": [
+    {
+     "q": "Q2175765",
+     "ru": "трамвайная остановка",
+     "en": "tram stop"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q137551661": {
+   "types": [
+    {
+     "q": "Q2175765",
+     "ru": "трамвайная остановка",
+     "en": "tram stop"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q137551662": {
+   "types": [
+    {
+     "q": "Q2175765",
+     "ru": "трамвайная остановка",
+     "en": "tram stop"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q137551663": {
+   "types": [
+    {
+     "q": "Q2175765",
+     "ru": "трамвайная остановка",
+     "en": "tram stop"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q137551664": {
+   "types": [
+    {
+     "q": "Q2175765",
+     "ru": "трамвайная остановка",
+     "en": "tram stop"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q137551665": {
+   "types": [
+    {
+     "q": "Q2175765",
+     "ru": "трамвайная остановка",
+     "en": "tram stop"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q137551666": {
+   "types": [
+    {
+     "q": "Q2175765",
+     "ru": "трамвайная остановка",
+     "en": "tram stop"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q137551668": {
+   "types": [
+    {
+     "q": "Q2175765",
+     "ru": "трамвайная остановка",
+     "en": "tram stop"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q137551669": {
+   "types": [
+    {
+     "q": "Q2175765",
+     "ru": "трамвайная остановка",
+     "en": "tram stop"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q137551670": {
+   "types": [
+    {
+     "q": "Q2175765",
+     "ru": "трамвайная остановка",
+     "en": "tram stop"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q137551671": {
+   "types": [
+    {
+     "q": "Q2175765",
+     "ru": "трамвайная остановка",
+     "en": "tram stop"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q137551672": {
+   "types": [
+    {
+     "q": "Q2175765",
+     "ru": "трамвайная остановка",
+     "en": "tram stop"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q137551673": {
+   "types": [
+    {
+     "q": "Q2175765",
+     "ru": "трамвайная остановка",
+     "en": "tram stop"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q137551674": {
+   "types": [
+    {
+     "q": "Q2175765",
+     "ru": "трамвайная остановка",
+     "en": "tram stop"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q137551675": {
+   "types": [
+    {
+     "q": "Q2175765",
+     "ru": "трамвайная остановка",
+     "en": "tram stop"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q137551676": {
+   "types": [
+    {
+     "q": "Q2175765",
+     "ru": "трамвайная остановка",
+     "en": "tram stop"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q137551678": {
+   "types": [
+    {
+     "q": "Q2175765",
+     "ru": "трамвайная остановка",
+     "en": "tram stop"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q137802676": {
+   "types": [
+    {
+     "q": "Q327333",
+     "ru": "орган публичной власти",
+     "en": "government agency"
+    }
+   ],
+   "image": null,
+   "enwiki_url": "https://en.wikipedia.org/wiki/Agency_of_the_Republic_of_Kazakhstan_for_Atomic_Energy",
+   "enwiki_intro": "The Agency of the Republic of Kazakhstan for Atomic Energy (Kazakh: Қазақстан Республикасының Атом энергиясы жөніндегі агенттігі; Russian: Агентство Республики Казахстан по атомной энергии) is a state body responsible for subsoil use, use of nuclear energy, ensuring radiation safety of the population and the operation of the Semipalatinsk Nuclear Safety Zone in the field of uranium mining. The agency is directly subordinate to and accountable to the president of Kazakhstan."
+  },
+  "Q138584253": {
+   "types": [
+    {
+     "q": "Q4164871",
+     "ru": "должность",
+     "en": "position"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q138720876": {
+   "types": [
+    {
+     "q": "Q27686",
+     "ru": "гостиница",
+     "en": "hotel"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q139821049": {
+   "types": [
+    {
+     "q": "Q4830453",
+     "ru": "бизнес",
+     "en": "business"
+    },
+    {
+     "q": "Q336532",
+     "ru": null,
+     "en": "vacation rental"
+    }
+   ],
+   "image": null,
+   "enwiki_url": null,
+   "enwiki_intro": null
+  },
+  "Q140128847": {
+   "types": [
+    {
+     "q": "Q327333",
+     "ru": "орган публичной власти",
+     "en": "government agency"
+    }
+   ],
+   "image": null,
+   "enwiki_url": "https://en.wikipedia.org/wiki/Supreme_Judicial_Council_of_Kazakhstan",
+   "enwiki_intro": null
+  },
+  "Q140754065": {
+   "types": [],
+   "image": null,
+   "enwiki_url": "https://en.wikipedia.org/wiki/Agency_for_Strategic_Planning_and_Reforms_(Kazakhstan)",
+   "enwiki_intro": "The Agency for Strategic Planning and Reforms of the Republic of Kazakhstan (Kazakh: Қазақстан Республикасы Стратегиялық жоспарлау және реформалар агенттігі; Russian: Агентство по стратегическому планированию и реформам Республики Казахстан) is a central state body accountable to the president, established in 2020 by president Kassym-Jomart Tokayev's decree and responsible for strategic planning, the implementation of reforms, and state statistics."
+  },
+  "Q140771477": {
+   "types": [
+    {
+     "q": "Q79007",
+     "ru": "улица",
+     "en": "street"
+    }
+   ],
+   "image": {
+    "file": "Konaev street in Astana (July 2026) - 2.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Konaev_street_in_Astana_%28July_2026%29_-_2.jpg/960px-Konaev_street_in_Astana_%28July_2026%29_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Konaev_street_in_Astana_(July_2026)_-_2.jpg",
+    "artist": "Vyacheslav Bukharov",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+   },
+   "enwiki_url": null,
+   "enwiki_intro": null
+  }
+ }
+}
